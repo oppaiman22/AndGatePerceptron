@@ -3,7 +3,6 @@ package View;
 import Model.Input;
 import Model.Weight;
 import java.awt.event.ActionListener;
-import java.util.Arrays;
 
 public class MainFrame extends javax.swing.JFrame {
     

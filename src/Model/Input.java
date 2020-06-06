@@ -9,11 +9,7 @@ public class Input {
         this.length = input.length;
     }   
 
-    public int getLength() {
-        return length;
-    }
+    public int getLength() { return length;}
 
-    public float[] getValue() {
-        return value;
-    }
+    public float[] getValue() { return value; }
 }

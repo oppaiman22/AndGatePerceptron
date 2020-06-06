@@ -15,11 +15,7 @@ public class Perceptron {
         return result < threshold ? 0F : 1F;
     }
 
-    public void setThreshold(float threshold) {
-        this.threshold = threshold;
-    }
+    public void setThreshold(float threshold) { this.threshold = threshold; }
     
-    public float getThreshold(){
-        return threshold;
-    }
+    public float getThreshold(){ return threshold; }
 }
